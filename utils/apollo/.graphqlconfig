@@ -4,7 +4,7 @@
   "extensions": {
     "endpoints": {
       "PancakeSwap Exchange LITE": {
-        "url": "https://bsc.streamingfast.io/subgraphs/name/pancakeswap/exchange-v2/graphql",
+        "url": "https://bsc.streamingfast.io/subgraphs/name/pancakeswap/exchange-v2",
         "headers": {
           "user-agent": "JS GraphQL"
         },
